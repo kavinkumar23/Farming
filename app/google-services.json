@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601864648881",
+    "project_id": "firstonefarm-c7f26",
+    "storage_bucket": "firstonefarm-c7f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601864648881:android:0d21f13994e26cbc4d4a90",
+        "android_client_info": {
+          "package_name": "com.example.firstonefarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0SUZrzCvjTsPR-GhwkEnBjeASQSLIS6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
